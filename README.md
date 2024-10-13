@@ -35,5 +35,11 @@
             </div>
         </div>
     </section>
+    <footer>
+        <div class="footer-panel1">
+        <p>&copy; 2024 Fresh Harvest Grocery. All rights reserved.</p>
+    </footer>
+    </div>
+    </body>
 
     
